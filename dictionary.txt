@@ -1,0 +1,28 @@
+VCSEL
+QVAR
+Triboelectric Effect
+IGBT
+GaN
+SiC
+Asymetrical Half Bridge
+Symetrical Half Bridge
+LLC
+Power Density
+ARM PSA
+Azure RTOS
+Root of Trust
+Confidentialty(Hand-Shake)
+CNN-1
+DNN
+SOTA
+InfluxDB
+Grafana
+Hype Cycle
+NanoEdge AI
+SESIP
+Drystone MIPS
+EEC
+FMAC
+Cordic
+I3C
+DFSDM(Sigma-Delta)
