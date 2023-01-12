@@ -27,3 +27,4 @@ Cordic
 I3C
 DFSDM(Sigma-Delta)
 PASCO2 sensor
+BLOB (binary large object)
