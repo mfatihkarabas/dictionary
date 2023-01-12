@@ -26,3 +26,4 @@ FMAC
 Cordic
 I3C
 DFSDM(Sigma-Delta)
+PASCO2 sensor
